@@ -1,15 +1,11 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         count = {}
-        for ind, val in enumerate(nums):
-            if target - val not in count:
-                count[val] = ind
+        for key, val in enumerate(nums):
+            if (target - val) not in count:
+                count[val] = key
             else:
-                return [count[target-val], ind]
-    
-        
+                return [count[target-val], key]
+            
+                
+                

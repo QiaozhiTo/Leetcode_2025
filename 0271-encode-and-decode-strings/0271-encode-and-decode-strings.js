@@ -27,10 +27,10 @@ var decode = function(s) {
         while(s[j] !== "#"){
             j ++; 
         }
-        let len = parseInt(s.substring(i,j));
-        res.push(s.substring(j+1,j+len + 1));
-        i = j + len + 1;
         
+        let len = parseInt(s.substring(i, j));
+        res.push(s.substring(j+1, j+len + 1));
+        i = j + len + 1; 
     }    
     return res;
     

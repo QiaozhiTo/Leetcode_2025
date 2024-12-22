@@ -19,7 +19,7 @@ class Codec:
             while s[j] != "#":
                 j += 1
             length = int(s[i:j])
-            res.append(s[j+1 : j + length + 1])
+            res.append(s[j + 1 : j + length + 1])
             i = j + length + 1
         return res
         

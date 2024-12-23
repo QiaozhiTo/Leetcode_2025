@@ -3,8 +3,7 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    const n = nums.length;
-
+    let n = nums.length;
     let res = new Array(n);
     let prefix = 1;
     let postfix = 1;

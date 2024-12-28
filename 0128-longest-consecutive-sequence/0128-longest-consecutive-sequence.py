@@ -6,7 +6,7 @@ class Solution(object):
         """
         numsSet = set(nums)
         longest = 0
-        for n in nums:
+        for n in numsSet:
             if (n-1) not in numsSet:
                 length = 1
                 while length + n in numsSet:

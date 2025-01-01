@@ -37,41 +37,41 @@ class MinStack(object):
         
 # Method 2 Brute Force
 
-class MinStack(object):
+# class MinStack(object):
 
-    def __init__(self):
-        self.stack = []        
+#     def __init__(self):
+#         self.stack = []        
 
-    def push(self, val):
-        """
-        :type val: int
-        :rtype: None
-        """
-        self.stack.append(val)        
+#     def push(self, val):
+#         """
+#         :type val: int
+#         :rtype: None
+#         """
+#         self.stack.append(val)        
 
-    def pop(self):
-        """
-        :rtype: None
-        """
-        self.stack.pop()
-    def top(self):
-        """
-        :rtype: int
-        """
-        return self.stack[-1]
+#     def pop(self):
+#         """
+#         :rtype: None
+#         """
+#         self.stack.pop()
+#     def top(self):
+#         """
+#         :rtype: int
+#         """
+#         return self.stack[-1]
         
-    def getMin(self):
-        """
-        :rtype: int
-        """
-        tmp = []
-        mini = self.stack[-1]
-        while self.stack:
-            mini = min(mini, self.stack[-1])
-            tmp.append(self.stack.pop())
-        while tmp:
-            self.stack.append(tmp.pop())
-        return mini
+#     def getMin(self):
+#         """
+#         :rtype: int
+#         """
+#         tmp = []
+#         mini = self.stack[-1]
+#         while self.stack:
+#             mini = min(mini, self.stack[-1])
+#             tmp.append(self.stack.pop())
+#         while tmp:
+#             self.stack.append(tmp.pop())
+#         return mini
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()

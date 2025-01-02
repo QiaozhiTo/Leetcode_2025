@@ -1,23 +1,23 @@
-class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
-        digits = []
-        for ele in tokens:
-            if ele not in '+-*/':
-                digits.append(int(ele))
-            else:
-                num1 = digits.pop()
-                num2 = digits.pop()
-                if ele == '+':
-                    digits.append(num2 + num1)
-                if ele == '-':
-                    digits.append(num2 - num1)
-                if ele == '*':
-                    digits.append(num2 * num1)
-                if ele == '/':
-                    digits.append(int(num2 / num1))
+# class Solution:
+#     def evalRPN(self, tokens: List[str]) -> int:
+#         digits = []
+#         for ele in tokens:
+#             if ele not in '+-*/':
+#                 digits.append(int(ele))
+#             else:
+#                 num1 = digits.pop()
+#                 num2 = digits.pop()
+#                 if ele == '+':
+#                     digits.append(num2 + num1)
+#                 if ele == '-':
+#                     digits.append(num2 - num1)
+#                 if ele == '*':
+#                     digits.append(num2 * num1)
+#                 if ele == '/':
+#                     digits.append(int(num2 / num1))
               
-        return digits[0]
-        
+#         return digits[0]
+
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         stack = []

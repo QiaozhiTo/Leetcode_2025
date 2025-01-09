@@ -11,5 +11,5 @@ class Solution:
                 l = m + 1
             else:
                 r = m -1
-                res= m
+                res= min(m, res)
         return res

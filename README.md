@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
+| [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->

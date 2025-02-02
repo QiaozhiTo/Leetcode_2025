@@ -16,11 +16,14 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+
+        // get first and second part of linkedlist
         ListNode second = slow.next;
         slow.next = null;
         ListNode first = head;
         ListNode prev = null; // for reverse second part;
 
+        //  reverse the second part
         while (second != null){
             ListNode tmp = second.next;
             second.next = prev;

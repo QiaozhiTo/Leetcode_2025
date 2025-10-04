@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |

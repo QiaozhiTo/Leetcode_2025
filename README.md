@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

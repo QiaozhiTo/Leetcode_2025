@@ -79,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree

@@ -3,7 +3,7 @@ class Solution:
         minHeap = []
         for x, y in points:
             dis = x**2 + y**2
-            minHeap.append([dis, x,y])
+            minHeap.append([dis, x, y])
         heapq.heapify(minHeap)
         res = []
         while k > 0:

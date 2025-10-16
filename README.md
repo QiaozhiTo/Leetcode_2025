@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |

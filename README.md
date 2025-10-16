@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0015-3sum) |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
@@ -223,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

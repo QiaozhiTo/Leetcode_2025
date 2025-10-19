@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
+| [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |

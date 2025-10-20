@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0074-search-a-2d-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 ## Stack
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List

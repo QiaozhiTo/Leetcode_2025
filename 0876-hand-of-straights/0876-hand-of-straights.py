@@ -8,7 +8,8 @@ class Solution:
         minHeap = list(count.keys())
         heapq.heapify(minHeap)
         while minHeap:
-            for i in range(minHeap[0], minHeap[0] + groupSize):
+            first = minHeap[0]
+            for i in range(first, first + groupSize):
                 if i not in count:
                     return False
                 count[i] -= 1

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
 | ------- |

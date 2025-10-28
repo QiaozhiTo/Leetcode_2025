@@ -10,10 +10,10 @@ class Solution:
                 return 
             if i == len(candidates) or total > target:
                 return 
-            
-            
+        
             cur.append(candidates[i])
             generate_susbet(i+1, cur, total + candidates[i])
+        
             cur.pop()
             while i+1 < len(candidates) and candidates[i] == candidates[i+1]:
                 i += 1

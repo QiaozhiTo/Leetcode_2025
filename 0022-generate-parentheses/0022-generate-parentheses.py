@@ -1,20 +1,19 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        stack, res = [], []
-        def backtrack(left, right):
-            if left == right == n:
+        res = []
+        stack = []
+        def dfs(openN, closeN):
+            if openN == closeN == n:
                 res.append("".join(stack))
                 return 
-            if left < n:
-                stack.append("(")
-                backtrack(left+1, right)
+            if openN < n:
+                stack.append('(')
+                dfs(openN+1, closeN)
                 stack.pop()
-            if right < left:
-                stack.append(")")
-                backtrack(left, right+1)
+            if closeN < openN:
+                stack.append(')')
+                dfs(openN, closeN+1)
                 stack.pop()
-        backtrack(0,0)
+        dfs(0,0)
         return res
-
-
         

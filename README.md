@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |

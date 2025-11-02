@@ -10,7 +10,8 @@ class Solution:
                     perm.append(nums[i])
                     pick[i] = True
                     dfs(perm, pick)
-                    perm.pop()
                     pick[i] = False
+
+                    perm.pop()
         dfs([], [False]*len(nums))
         return res

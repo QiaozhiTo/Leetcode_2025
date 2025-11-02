@@ -5,7 +5,6 @@ class Solution:
         negDiag = set()
         res = []
         board = [['.'] * n for i in range(n) ]
-
         def backtracking(r):
             if r == n:
                 copy = ["".join(row) for row in board]
@@ -18,6 +17,7 @@ class Solution:
                 posDiag.add(r+c)
                 negDiag.add(r-c)
                 board[r][c] = "Q"
+                
                 backtracking(r+1)
 
                 col.remove(c)
@@ -27,3 +27,12 @@ class Solution:
         
         backtracking(0)
         return res
+
+'''
+board
+[['.', '.', '.', '.'],
+ ['.', '.', '.', '.'],
+ ['.', '.', '.', '.'],
+ ['.', '.', '.', '.']]
+
+'''

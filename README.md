@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |

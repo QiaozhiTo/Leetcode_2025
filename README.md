@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |

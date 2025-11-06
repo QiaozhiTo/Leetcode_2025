@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0211-design-add-and-search-words-data-structure) |

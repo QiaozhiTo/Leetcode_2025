@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0647-palindromic-substrings](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |

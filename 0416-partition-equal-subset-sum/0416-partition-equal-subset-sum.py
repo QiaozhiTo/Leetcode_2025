@@ -8,8 +8,8 @@ class Solution:
             nextDP = set()
             
             for t in dp:
-                if target == t + nums[i]:
-                    return True
+                # if target == t + nums[i]:
+                #     return True # runtime 271ms
                 nextDP.add(t + nums[i])
                 nextDP.add(t)
             dp = nextDP

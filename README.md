@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
@@ -348,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

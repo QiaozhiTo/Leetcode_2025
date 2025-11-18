@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -368,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

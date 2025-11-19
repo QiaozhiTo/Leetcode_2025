@@ -1,17 +1,15 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        perm, res = [], []
-        def dfs(perm:List[int], pick:List[bool]):
-            if len(nums) == len(perm):
+        res = []
+        def dfs(nums, perm, pick):
+            if len(perm) == len(pick):
                 res.append(perm[:])
-                return 
             for i in range(len(nums)):
                 if not pick[i]:
                     perm.append(nums[i])
                     pick[i] = True
-                    dfs(perm, pick)
-                    pick[i] = False
-
+                    dfs(nums, perm, pick)
                     perm.pop()
-        dfs([], [False]*len(nums))
+                    pick[i] = False
+        dfs(nums, [], [False]*len(nums))
         return res

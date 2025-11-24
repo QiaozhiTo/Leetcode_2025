@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |

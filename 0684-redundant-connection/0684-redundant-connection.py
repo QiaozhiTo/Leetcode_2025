@@ -5,7 +5,7 @@ class Solution:
         rank = [1] * (N + 1)
 
         def find(n):
-            p = par[n]
+            p = n
             while p != par[p]:
                 par[p] = par[par[p]]
                 p = par[p]

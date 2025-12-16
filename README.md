@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

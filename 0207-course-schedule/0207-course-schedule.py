@@ -4,7 +4,7 @@ class Solution:
         visiting = set()
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
-                          
+
         def dfs(crs):
             if crs in visiting:
                 return False
@@ -17,7 +17,8 @@ class Solution:
             visiting.remove(crs)
             preMap[crs] = []
             return True
-        for i in range(numCourses):
-            if not dfs(i):
+
+        for crs in range(numCourses):
+            if not dfs(crs):
                 return False
         return True

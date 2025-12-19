@@ -13,11 +13,18 @@ class Solution:
                 row, col = q.popleft()
                 for dr, dc in directions:
                     nr, nc = dr + row, dc + col
-                    if (nr < 0 or nc < 0 or nr == rows or nc == cols or (nr, nc) in visit or grid[nr][nc]== 0):
-                        continue
-                    q.append((nr, nc))
-                    visit.add((nr, nc))
-                    res += 1
+                    #1)
+                    # if (nr < 0 or nc < 0 or nr == rows or nc == cols or (nr, nc) in visit or grid[nr][nc]== 0):
+                    #     continue
+                    # q.append((nr, nc))
+                    # visit.add((nr, nc))
+                    # res += 1
+                    
+                    # Or 2)
+                    if (nr in range(rows) and nc in range(cols) and (nr, nc) not in visit and grid[nr][nc] == 1):
+                        q.append((nr, nc))
+                        visit.add((nr, nc))
+                        res += 1
             return res
         for r in range(rows):
             for c in range(cols):

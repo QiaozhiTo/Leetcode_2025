@@ -1,9 +1,9 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         preMap = {i : [] for i in range(numCourses)}
-        visiting = set()
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
+        visiting = set()
 
         def dfs(crs):
             if crs in visiting:
@@ -18,7 +18,8 @@ class Solution:
             preMap[crs] = []
             return True
 
+
         for crs in range(numCourses):
             if not dfs(crs):
                 return False
-        return True
+        return True     

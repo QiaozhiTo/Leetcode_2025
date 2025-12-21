@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
+| [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -425,11 +427,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
+| [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 ## Simulation
 |  |
 | ------- |

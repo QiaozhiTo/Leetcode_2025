@@ -5,10 +5,10 @@ class Solution:
             reach[u][v] = True
         for i in range(numCourses):
             for j in range(numCourses):
-                if reach[j][i]:
+                if reach[j][i]: # j is prerequisite of i
                     for k in range(numCourses):
-                        if reach[i][k]:
-                            reach[j][k] = True
+                        if reach[i][k]:# i is prerequistite of k
+                            reach[j][k] = True # then j is reqrequisite of k
         return [reach[u][v] for u, v in queries]
 
 

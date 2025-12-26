@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0239-sliding-window-maximum) |
+| [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0377-combination-sum-iv) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |

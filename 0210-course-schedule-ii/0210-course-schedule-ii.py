@@ -1,12 +1,11 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         preMap = collections.defaultdict(list)
-        for crs, pre in prerequisites:
-            preMap[crs].append(pre)
-
-        circle = set()
-        visit = set()
+        for a, b in prerequisites:
+            preMap[a].append(b)
         res = []
+        visit = set()
+        circle = set()
         def dfs(crs):
             if crs in visit:
                 return True
@@ -19,11 +18,8 @@ class Solution:
             circle.remove(crs)
             res.append(crs)
             visit.add(crs)
-            return True
-        
-
+            return res
         for crs in range(numCourses):
             if not dfs(crs):
                 return []
         return res
-            

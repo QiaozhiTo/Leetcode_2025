@@ -4,20 +4,20 @@ class Solution:
         for a, b in prerequisites:
             preMap[a].append(b)
         res = []
+        cycle = set()
         visit = set()
-        circle = set()
         def dfs(crs):
+            if crs in cycle:
+                return False
             if crs in visit:
                 return True
-            if crs in circle:
-                return False
-            circle.add(crs)
+            cycle.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre):
                     return False
-            circle.remove(crs)
-            res.append(crs)
+            cycle.remove(crs)
             visit.add(crs)
+            res.append(crs)
             return res
         for crs in range(numCourses):
             if not dfs(crs):

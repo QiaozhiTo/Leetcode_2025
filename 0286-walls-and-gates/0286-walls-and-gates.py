@@ -27,5 +27,4 @@ class Solution:
                 addrooms(row, col - 1)
                 addrooms(row + 1, col)
                 addrooms(row - 1, col)
-
             dist += 1

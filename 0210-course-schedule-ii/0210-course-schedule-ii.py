@@ -6,6 +6,7 @@ class Solution:
         res = []
         cycle = set()
         visit = set()
+
         def dfs(crs):
             if crs in cycle:
                 return False
@@ -18,7 +19,7 @@ class Solution:
             cycle.remove(crs)
             visit.add(crs)
             res.append(crs)
-            return res
+            return True
         for crs in range(numCourses):
             if not dfs(crs):
                 return []

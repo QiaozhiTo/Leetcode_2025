@@ -12,20 +12,15 @@ class Solution:
             capture(r, c - 1)
             capture(r + 1, c)
             capture(r - 1, c)
-        for r in range(rows):
-            if board[r][0] == 'O':
-                capture(r, 0)
-            if board[r][cols - 1] == 'O':
-                capture(r, cols - 1)
-        for c in range(cols):
-            if board[0][c] == 'O':
-                capture(0, c)
-            if board[rows - 1][c] == 'O':
-                capture(rows - 1, c)
+        
         for r in range(rows):
             for c in range(cols):
-                if board[r][c] == 'O':
-                    board[r][c] = 'X'
-                if board[r][c] == 'T':
-                    board[r][c] = 'O'
-                
+                if (board[r][c] == "O" and (r in [0, rows - 1] or c in [0, cols - 1])):
+                    capture(r, c)
+
+        for r in range(rows):
+            for c in range(cols):
+                if board[r][c] == "O":
+                    board[r][c] = "X"
+                elif board[r][c] == "T":
+                    board[r][c] = "O"

@@ -9,7 +9,7 @@ class Solution:
 
         # no need for visit ? no you need visit
         def addrooms(r, c):
-            if (r < 0 or r ==  rows or c < 0 or c == cols or rooms[r][c] == -1):
+            if (r < 0 or r ==  rows or c < 0 or c == cols or rooms[r][c] == -1 or (r, c) in visit):
                 return 
             q.append((r, c))
             visit.add((r, c))

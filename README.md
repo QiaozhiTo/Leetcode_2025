@@ -441,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

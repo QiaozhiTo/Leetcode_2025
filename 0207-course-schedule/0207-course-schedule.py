@@ -9,6 +9,7 @@ class Solution:
         def dfs(crs):
             if crs in visit:
                 return False
+            # when visit a course without any prerequisite, return True directly
             if preMap[crs] == []:
                 return True
             visit.add(crs)
@@ -16,6 +17,7 @@ class Solution:
                 if not dfs(pre):
                     return False
             visit.remove(crs)
+            # when found crs has no cycle, cash preMap[crs] = []
             preMap[crs] = []
             return True
         

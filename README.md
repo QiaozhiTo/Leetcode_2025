@@ -445,4 +445,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->

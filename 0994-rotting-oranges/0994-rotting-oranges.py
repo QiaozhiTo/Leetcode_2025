@@ -10,7 +10,7 @@ class Solution:
             for c in range(cols):
                 if grid[r][c] == 1:
                     fresh += 1
-                if grid[r][c] == 2:
+                elif grid[r][c] == 2:
                     q.append((r, c))
 
         while q and fresh > 0:

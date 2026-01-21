@@ -23,6 +23,4 @@ class Solution:
                         fresh -= 1
                         grid[nr][nc] = 2
             time += 1
-
-        
         return time if fresh == 0 else -1

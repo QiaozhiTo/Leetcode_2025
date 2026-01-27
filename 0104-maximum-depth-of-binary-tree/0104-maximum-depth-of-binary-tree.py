@@ -4,11 +4,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# Recursive
+# class Solution:
+#     def maxDepth(self, root: Optional[TreeNode]) -> int:
+#         if not root:return 0
+#         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
+        
+# dfs
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        # bfs
-        if not root: return 0
-        q = deque([root])
+        q = deque()
+        if root:
+            q.append(root)
+
         level = 0
         while q:
             for i in range(len(q)):
@@ -19,9 +27,3 @@ class Solution:
                     q.append(node.right)
             level += 1
         return level
-
-        # dfs
-        if not root: return 0
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
-        return 1 + max(left, right)

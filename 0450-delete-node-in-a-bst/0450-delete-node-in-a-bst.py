@@ -18,9 +18,9 @@ class Solution:
             elif not root.left:
                 return root.right
             else:
-                cur = root.right
-                if cur.left:
-                    cur = cur.left
-                root.val = cur.val
+                curr = root.right
+                while curr.left:
+                    curr = curr.left
+                root.val = curr.val
                 root.right = self.deleteNode(root.right, root.val)
         return root

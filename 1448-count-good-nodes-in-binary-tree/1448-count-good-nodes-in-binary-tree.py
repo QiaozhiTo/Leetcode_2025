@@ -5,9 +5,6 @@
 #         self.left = left
 #         self.right = right
 
-# time complexity: O(n)
-# space complexity: O(h), h is the height of the tree
-
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         def dfs(node, maxVal):
@@ -19,3 +16,6 @@ class Solution:
             return res
         return dfs(root, root.val)
         
+
+# time complexity: O(n)
+# space complexity: O(h), h is the height of the tree

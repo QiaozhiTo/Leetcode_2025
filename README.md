@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 ## Graph Theory
 |  |

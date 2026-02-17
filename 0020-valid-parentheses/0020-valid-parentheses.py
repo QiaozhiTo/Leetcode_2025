@@ -1,21 +1,13 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-        if not s: return False
-        for i in s:
-            if i in ('{', '(', '['):
-                stack.append(i)
-            # need to check if stack is empty, or it will cause index out of range error
-            elif stack and ((i == '}' and stack[-1] == '{') or
-                            (i == ']' and stack[-1] == '[') or
-                            (i == ')' and stack[-1] == '(')):
+        parentheses = {")":"(", "}":"{", "]":"["}
+        for each in s:
+            if each not in parentheses:
+                stack.append(each)
+            elif stack and stack[-1] == parentheses[each]:
                 stack.pop()
             else:
                 return False
-
-
-        return len(stack) == 0
+            
+        return True if not stack else False

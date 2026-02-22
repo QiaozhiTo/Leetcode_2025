@@ -2,9 +2,8 @@ class FreqStack:
 
     def __init__(self):
         self.stacks = {}
-        self.cnt = {}
         self.maxCnt = 0
-        
+        self.cnt = {}
 
     def push(self, val: int) -> None:
         valCnt = self.cnt.get(val, 0) + 1
@@ -13,7 +12,6 @@ class FreqStack:
             self.maxCnt = valCnt
             self.stacks[self.maxCnt] = []
         self.stacks[valCnt].append(val)
-        
 
     def pop(self) -> int:
         res = self.stacks[self.maxCnt].pop()

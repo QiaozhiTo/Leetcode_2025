@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
+| [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 ## String
 |  |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 ## Graph Theory

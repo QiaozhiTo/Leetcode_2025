@@ -13,22 +13,25 @@ class Solution:
         diameter = left + right
         sub = max(self.diameterOfBinaryTree(root.left), self.diameterOfBinaryTree(root.right))
         return max(sub, diameter)
+
     def maxHeight(self, root):
         if not root: return 0
         return 1 + max(self.maxHeight(root.left), self.maxHeight(root.right))
 
 # dfs
-# class Solution:
-#     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-#         self.res = 0
-#         def dfs(node):
-#             if not node: return 0
-#             left = dfs(node.left)
-#             right = dfs(node.right)
-#             self.res = max(self.res, left + right)
-#             return 1 + max(left, right)
-#         dfs(root)
-#         return self.res
+class Solution:
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        self.res = 0
+        def dfs(node):
+            if not node: return 0
+            left = dfs(node.left)
+            right = dfs(node.right)
+            self.res = max(self.res, left + right)
+            return 1 + max(left, right)
+        dfs(root)
+        return self.res
+
+        
 '''
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:

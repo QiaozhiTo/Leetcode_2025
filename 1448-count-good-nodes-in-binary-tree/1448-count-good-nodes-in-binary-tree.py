@@ -4,18 +4,14 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         def dfs(node, maxVal):
-            if not node: return 0
-            res = 1 if node.val >= maxVal else 0
+            if not node:return 0
+            res = 1 if node.val >= maxVal else 0 
             maxVal = max(maxVal, node.val)
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
             return res
-        return dfs(root, root.val)
-        
+        return dfs(root, root.val)    
 
-# time complexity: O(n)
-# space complexity: O(h), h is the height of the tree

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Data Stream
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 ## Graph Theory
 |  |
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0895-maximum-frequency-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->

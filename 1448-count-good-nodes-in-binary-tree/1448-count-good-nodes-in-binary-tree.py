@@ -13,4 +13,5 @@ class Solution:
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
             return res
-        dfs(root, root.val)
+        return dfs(root, root.val)
+# dfs 内部的 return 是把值传给dfs的调用者，但 goodNodes 还需要再 return 一次才能把值传给goodNodes的调用者（也就是LeetCode的测试系统）。每个函数都只负责把值传给直接调用它的那一层。

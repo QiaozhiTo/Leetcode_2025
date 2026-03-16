@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
+| [1405-longest-happy-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1405-longest-happy-string) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
+| [1405-longest-happy-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1405-longest-happy-string) |
 ## Design
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1405-longest-happy-string) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Data Stream
 |  |

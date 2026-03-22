@@ -9,10 +9,11 @@ class Solution:
         visit = [False]
         stack = [root]
         res = []
+
         while stack:
             v = visit.pop()
             curr = stack.pop()
-            if curr: 
+            if curr:
                 if v:
                     res.append(curr.val)
                 else:
@@ -23,3 +24,15 @@ class Solution:
                     stack.append(curr.left)
                     visit.append(False)
         return res
+        
+
+# class Solution:
+#     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+#         res = []
+#         def dfs(node):
+#             if not node: return  
+#             dfs(node.left)
+#             dfs(node.right)
+#             res.append(node.val)
+#         dfs(root)
+#         return res

@@ -21,4 +21,7 @@ class Solution:
                 return curr
             curr = curr.parent
         return None
+
+# 时间： O(dp + dq)
+# 空间： O(dp) — set 存了 p 的整条路径
         

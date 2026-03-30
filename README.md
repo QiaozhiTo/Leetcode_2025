@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0895-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Search Tree
 |  |
 | ------- |

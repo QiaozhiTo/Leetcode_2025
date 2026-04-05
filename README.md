@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1929-concatenation-of-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
+| [1834-single-threaded-cpu](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1834-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1405-longest-happy-string) |
+| [1834-single-threaded-cpu](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1834-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Data Stream
 |  |

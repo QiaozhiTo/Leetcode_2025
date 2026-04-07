@@ -8,6 +8,7 @@ class Solution:
         minHeap = []
 
         while minHeap or i < len(tasks):
+            #同一时间点可能有多个任务同时到达，用 if 只加入一个就去执行了，但应该把所有已到达的任务都加入堆再决定执行哪个。 用while而不是if
             while i < len(tasks) and time >= tasks[i][0]:
                 heapq.heappush(minHeap, [tasks[i][1], tasks[i][2]])
                 i += 1

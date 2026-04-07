@@ -1,26 +1,24 @@
 class Solution:
     def longestDiverseString(self, a: int, b: int, c: int) -> str:
-        res = ""
         maxHeap = []
-        count = {(-a, 'a'), (-b, 'b'), (-c, 'c')}
-        for cnt, char in count:
+        res = ""
+        for cnt, char in {(-a, "a"), (-b, "b"), (-c, "c")}:
             if cnt:
                 heapq.heappush(maxHeap, [cnt, char])
-        
         while maxHeap:
-            cnt, char = heapq.heappop(maxHeap)
+            count, char = heapq.heappop(maxHeap)
             if len(res) > 1 and res[-1] == res[-2] == char:
                 if not maxHeap:
                     break
-                cnt2, char2 = heapq.heappop(maxHeap)
+                count2, char2 = heapq.heappop(maxHeap)
                 res += char2
-                cnt2 += 1
-                if cnt2:
-                    heapq.heappush(maxHeap, [cnt2, char2])
-                heapq.heappush(maxHeap, [cnt, char]) # put the most freq char back into maxHeap
+                count2 += 1
+                if count2:
+                    heapq.heappush(maxHeap, [count2, char2])
+                heapq.heappush(maxHeap, [count, char])
             else:
                 res += char
-                cnt += 1
-                if cnt:
-                    heapq.heappush(maxHeap, [cnt, char])
+                count += 1
+                if count:
+                    heapq.heappush(maxHeap, [count, char])
         return res

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0853-car-fleet) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0767-reorganize-string) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0767-reorganize-string) |

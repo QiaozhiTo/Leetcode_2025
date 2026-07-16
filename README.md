@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0239-sliding-window-maximum) |
 | [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
+| [0304-range-sum-query-2d-immutable](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
 ## String Matching
 |  |

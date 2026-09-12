@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0394-decode-string) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0735-asteroid-collision) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1325-delete-leaves-with-a-given-value) |

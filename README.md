@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
+| [0953-verifying-an-alien-dictionary](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
+| [0953-verifying-an-alien-dictionary](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0953-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 | [1405-longest-happy-string](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1405-longest-happy-string) |
 ## Design
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0895-maximum-frequency-stack) |
+| [0953-verifying-an-alien-dictionary](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0953-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Divide and Conquer

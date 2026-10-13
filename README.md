@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0953-verifying-an-alien-dictionary](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1094-car-pooling) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0876-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |
 | [1023-time-based-key-value-store](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1023-time-based-key-value-store) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Divide and Conquer
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+| [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
 | ------- |

@@ -10,9 +10,10 @@ class Solution:
                 digit = str((int(lock[i]) - 1 + 10) % 10)
                 res.append(lock[:i] + digit + lock[i + 1:])
             return res
-
         q = deque([("0000", 0)])
         visit = set(deadends) 
+        # dont forget to add "0000" into visit
+        visit.add("0000")
         while q:
             lock, turns = q.popleft()
             if lock == target:

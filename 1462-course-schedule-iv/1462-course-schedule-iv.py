@@ -43,17 +43,17 @@ class Solution:
         adj = collections.defaultdict(list)
         for u, v in prerequisites:
             adj[v].append(u)
+
+        preMap = {}
         def dfs(crs):
-            if crs not in prereqMap:
-                prereqMap[crs] = set()
-                for pre in adj[crs]:    
-                    prereqMap[crs].update(dfs(pre))
-                prereqMap[crs].add(crs)
-            return prereqMap[crs]
-        prereqMap = {}
-        for crs in range(numCourses):
-            dfs(crs)
-        res = []
+            if crs not in preMap:
+                preMap[crs] = set()
+                for nei in adj[crs]:
+                    preMap[crs] |= dfs(nei)
+
+                preMap[crs].add(crs)
+            return preMap[crs]
+        output = []
         for u, v in queries:
-            res.append(u in prereqMap[v])
-        return res
+            output.append(u in dfs(v))
+        return output

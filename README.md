@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
 | [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 ## Union-Find
 |  |
 | ------- |

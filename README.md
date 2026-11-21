@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+| [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 ## Union-Find
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+| [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 ## Ordered Set
 |  |
 | ------- |

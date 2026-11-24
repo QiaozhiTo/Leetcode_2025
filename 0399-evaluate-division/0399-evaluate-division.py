@@ -11,6 +11,7 @@ class Solution:
             q = deque([(src, 1)])
             visit = set()
             visit.add(src)
+            
             while q:
                 node, w = q.popleft()
                 if node == target:

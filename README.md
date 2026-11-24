@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0399-evaluate-division) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0399-evaluate-division) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/1462-course-schedule-iv) |
 ## Simulation
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0261-graph-valid-tree) |
+| [0310-minimum-height-trees](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/QiaozhiTo/Leetcode_2025/tree/master/0997-find-the-town-judge) |

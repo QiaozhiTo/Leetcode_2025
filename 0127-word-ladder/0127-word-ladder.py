@@ -8,7 +8,6 @@ class Solution:
             for i in range(len(word)):
                 pattern = word[:i] + "*" + word[i + 1:]
                 wordMap[pattern].append(word)
-        
         q = deque([beginWord])
         visit = set(beginWord)
         res = 1

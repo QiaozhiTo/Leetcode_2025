@@ -44,3 +44,8 @@ class Solution:
             return True
         
         return dfs(0, -1) and len(visit) == n
+
+# definition of Tree: 1. all nodes are connected 2. no cycle
+# all nodes are connected -- all nodes are visited, len(visit) == nodes#
+# undirected edge, for kid node, need to pass the parent to avoid false cycle detection.
+# for example for node 1, need to pass par 0 to avoid false cycle detection.

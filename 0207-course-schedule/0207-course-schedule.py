@@ -29,11 +29,12 @@ class Solution:
 '''
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = {i : [] for i in range(numCourses)}
+        preMap = defaultdict(list)
         for a, b in prerequisites:
             preMap[b].append(a)
         
         visiting = set()
+
         def dfs(crs):
             if crs in visiting:
                 return False
@@ -41,12 +42,12 @@ class Solution:
                 return True
             visiting.add(crs)
             for pre in preMap[crs]:
-                if not dfs(pre):
+                if dfs(pre) == False:
                     return False
             visiting.remove(crs)
             preMap[crs] = []
             return True
         for crs in range(numCourses):
-            if not dfs(crs):
+            if dfs(crs) == False:
                 return False
         return True

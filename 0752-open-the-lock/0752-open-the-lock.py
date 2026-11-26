@@ -14,16 +14,18 @@ class Solution:
 
         q = deque([("0000", 0)])
         visit = set(deadends)
+        visit.add("0000")
 
         while q:
-            for _ in range(len(q)):
-                lock, turns = q.popleft()
-                if lock == target:
-                    return turns
-                for child in children(lock):
-                    if child not in visit:
-                        visit.add(child)
-                        q.append((child, turns + 1))
+            # no need
+            # for _ in range(len(q)):
+            lock, turns = q.popleft()
+            if lock == target:
+                return turns
+            for child in children(lock):
+                if child not in visit:
+                    visit.add(child)
+                    q.append((child, turns + 1))
         return -1
             
 

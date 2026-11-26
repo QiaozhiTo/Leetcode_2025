@@ -6,10 +6,9 @@ class Solution:
         for a, b in edges:
             adj[a].append(b)
             adj[b].append(a)
-        
-        leaves = deque()
-        edge_cnt = {}
 
+        edge_cnt = {}
+        leaves = deque()
         for src, neighbors in adj.items():
             edge_cnt[src] = len(neighbors)
             if len(neighbors) == 1:
@@ -18,9 +17,10 @@ class Solution:
         while leaves:
             if n <= 2:
                 return list(leaves)
-            for _ in range(len(leaves)):
+            for i in range(len(leaves)):
                 node = leaves.popleft()
                 n -= 1
+                
                 for nei in adj[node]:
                     edge_cnt[nei] -= 1
                     if edge_cnt[nei] == 1:

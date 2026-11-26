@@ -40,20 +40,21 @@ class Solution:
 '''
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
-        adj = collections.defaultdict(list)
-        for u, v in prerequisites:
-            adj[v].append(u)
+        adj = defaultdict(list)
+        for a, b in prerequisites:
+            adj[b].append(a)
+        
+        preMap = {} # dict of set
 
-        preMap = {}
         def dfs(crs):
             if crs not in preMap:
                 preMap[crs] = set()
                 for nei in adj[crs]:
                     preMap[crs] |= dfs(nei)
-
                 preMap[crs].add(crs)
             return preMap[crs]
-        output = []
+        
+        res = []
         for u, v in queries:
-            output.append(u in dfs(v))
-        return output
+            res.append(u in dfs(v))
+        return res

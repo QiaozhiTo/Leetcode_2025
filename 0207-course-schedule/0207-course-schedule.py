@@ -31,7 +31,7 @@ class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         preMap = defaultdict(list)
         for a, b in prerequisites:
-            preMap[b].append(a)
+            preMap[a].append(b)
         
         visiting = set()
 

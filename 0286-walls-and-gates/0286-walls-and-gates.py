@@ -83,3 +83,32 @@ class Solution:
                 if nr in range(rows) and nc in range(cols) and rooms[nr][nc] == INF:
                     rooms[nr][nc] = rooms[r][c] + 1
                     q.append((nr, nc))
+
+class Solution:
+    def wallsAndGates(self, rooms: List[List[int]]) -> None:
+        rows, cols = len(rooms), len(rooms[0])
+        visit = set()
+        q = deque()
+
+        def addroom(r, c):
+            if r < 0 or r == rows or c < 0 or c ==cols or (r, c) in visit or rooms[r][c] == -1:
+                return 
+            visit.add((r, c))
+            q.append((r, c))
+
+        for r in range(rows):
+            for c in range(cols):
+                if rooms[r][c] == 0:
+                    addroom(r, c)
+        dist = 0
+        while q:
+            for _ in range(len(q)):
+                r, c = q.popleft()
+                rooms[r][c] = dist
+                addroom(r, c + 1)
+                addroom(r, c - 1)
+                addroom(r + 1, c)
+                addroom(r - 1, c)
+
+            dist += 1
+

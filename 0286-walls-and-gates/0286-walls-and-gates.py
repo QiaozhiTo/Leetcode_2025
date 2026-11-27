@@ -61,7 +61,7 @@ class Solution:
                     rooms[r][c] = bfs(r, c)
         
                     
-'''
+
 
 
 
@@ -83,7 +83,7 @@ class Solution:
                 if nr in range(rows) and nc in range(cols) and rooms[nr][nc] == INF:
                     rooms[nr][nc] = rooms[r][c] + 1
                     q.append((nr, nc))
-
+'''
 class Solution:
     def wallsAndGates(self, rooms: List[List[int]]) -> None:
         rows, cols = len(rooms), len(rooms[0])
@@ -112,3 +112,26 @@ class Solution:
 
             dist += 1
 
+
+# class Solution:
+#     def wallsAndGates(self, rooms: List[List[int]]) -> None:
+#         directions = [[1, 0], [-1, 0],[0, 1], [0, -1]]
+#         rows, cols = len(rooms), len(rooms[0])
+#         visit = set()
+#         q = deque()
+#         INF = 2147483647
+
+#         for r in range(rows):
+#             for c in range(cols):
+#                 if rooms[r][c] == 0:
+#                     q.append((r, c))
+#                     visit.add((r, c))
+#         while q:
+#             r, c = q.popleft()
+#             for dr, dc in directions:
+#                 row, col = r + dr, c + dc
+#                 if row < 0 or row == rows or col < 0 or col == cols or rooms[row][col] == -1 or (row, col) in visit:
+#                     continue
+#                 rooms[row][col] =rooms[r][c] + 1
+#                 q.append((row, col))
+#                 visit.add((row, col))
